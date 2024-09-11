@@ -1,4 +1,4 @@
-package com.kingsCorner.kingsCorner.security.config;
+package com.kingsCorner.config;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

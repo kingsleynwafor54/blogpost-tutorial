@@ -1,4 +1,4 @@
-package com.kingsCorner.kingsCorner.security.dto;
+package com.kingsCorner.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

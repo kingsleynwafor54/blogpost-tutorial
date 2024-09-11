@@ -1,6 +1,6 @@
-package com.kingsCorner.kingsCorner.security.repository;
+package com.kingsCorner.repository;
 
-import com.kingsCorner.kingsCorner.security.model.User;
+import com.kingsCorner.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

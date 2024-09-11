@@ -1,4 +1,4 @@
-package com.kingsCorner.kingsCorner.security.config;
+package com.kingsCorner.config;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

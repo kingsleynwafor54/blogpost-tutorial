@@ -1,13 +1,13 @@
-package com.kingsCorner.kingsCorner.security.service;
+package com.kingsCorner.service;
 
 
-import com.kingsCorner.kingsCorner.security.config.JwtService;
-import com.kingsCorner.kingsCorner.security.dto.AuthenticationRequestDto;
-import com.kingsCorner.kingsCorner.security.dto.AuthenticationResponseDto;
-import com.kingsCorner.kingsCorner.security.dto.RequestDto;
-import com.kingsCorner.kingsCorner.security.model.Role;
-import com.kingsCorner.kingsCorner.security.model.User;
-import com.kingsCorner.kingsCorner.security.repository.UserRepository;
+import com.kingsCorner.config.JwtService;
+import com.kingsCorner.dto.AuthenticationRequestDto;
+import com.kingsCorner.dto.AuthenticationResponseDto;
+import com.kingsCorner.dto.RequestDto;
+import com.kingsCorner.model.Role;
+import com.kingsCorner.model.User;
+import com.kingsCorner.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

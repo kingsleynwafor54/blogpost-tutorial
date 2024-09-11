@@ -1,9 +1,9 @@
-package com.kingsCorner.kingsCorner.security.service;
+package com.kingsCorner.service;
 
 
-import com.kingsCorner.kingsCorner.security.dto.AuthenticationRequestDto;
-import com.kingsCorner.kingsCorner.security.dto.AuthenticationResponseDto;
-import com.kingsCorner.kingsCorner.security.dto.RequestDto;
+import com.kingsCorner.dto.AuthenticationRequestDto;
+import com.kingsCorner.dto.AuthenticationResponseDto;
+import com.kingsCorner.dto.RequestDto;
 
 public interface AuthenticationService {
 //    Here we're registering the user

@@ -1,4 +1,4 @@
-package com.kingsCorner.kingsCorner.security.model;
+package com.kingsCorner.model;
 
 public enum Role {
     USER,

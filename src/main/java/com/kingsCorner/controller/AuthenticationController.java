@@ -1,9 +1,9 @@
-package com.kingsCorner.kingsCorner.security.controller;
+package com.kingsCorner.controller;
 
-import com.kingsCorner.kingsCorner.security.dto.RequestDto;
-import com.kingsCorner.kingsCorner.security.service.AuthenticationServiceImpl;
-import com.kingsCorner.kingsCorner.security.dto.AuthenticationRequestDto;
-import com.kingsCorner.kingsCorner.security.dto.AuthenticationResponseDto;
+import com.kingsCorner.dto.RequestDto;
+import com.kingsCorner.service.AuthenticationServiceImpl;
+import com.kingsCorner.dto.AuthenticationRequestDto;
+import com.kingsCorner.dto.AuthenticationResponseDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

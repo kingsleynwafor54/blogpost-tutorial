@@ -1,4 +1,4 @@
-package com.kingsCorner.kingsCorner.security.config;
+package com.kingsCorner.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;

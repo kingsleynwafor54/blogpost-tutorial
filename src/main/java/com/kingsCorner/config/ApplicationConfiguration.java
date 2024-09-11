@@ -1,6 +1,6 @@
-package com.kingsCorner.kingsCorner.security.config;
+package com.kingsCorner.config;
 
-import com.kingsCorner.kingsCorner.security.repository.UserRepository;
+import com.kingsCorner.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
